@@ -104,6 +104,7 @@ public class HunterControl : MonoBehaviour
             if (id == 0)
             {
                 _countBirds++;
+                GameManager.Instance.currentPlayer.inventory.AddItem(new ItemInfo(3, 1));
                 _hunterUI.ViewBirds(_countBirds);
             }
             if (_countArrows == 0)

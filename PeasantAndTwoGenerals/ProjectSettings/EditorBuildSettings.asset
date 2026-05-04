@@ -4,5 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: d7314dfcc5982b94d82525e341efb6f7
+  - enabled: 1
+    path: Assets/Scenes/LevelScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/BotCreateScene.unity
+    guid: 37f9de36d5deba949a6184b7b4b7c24f
+  - enabled: 1
+    path: Assets/Scenes/FoodScene.unity
+    guid: 8d0d318e9e15b5249a88f8ca36a46ac7
+  - enabled: 1
+    path: Assets/Scenes/HanterScene.unity
+    guid: 2c8d00f1950c5d6449b5067f45a8869d
+  - enabled: 1
+    path: Assets/Scenes/GribScene.unity
+    guid: 8ad2cd23d737fb844b6846e13c4eac05
+  - enabled: 1
+    path: Assets/Scenes/VegetaScene.unity
+    guid: 14c3ff147f5147e42849e027d7f56403
+  - enabled: 1
+    path: Assets/Scenes/FishingScene.unity
+    guid: 7c0a17deb4afd0d45ac2419e501a64cc
   m_configObjects: {}
